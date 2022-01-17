@@ -14,10 +14,12 @@ Disadavantages:
  One line of code can be be in different location 
  The out come of the can effect the outcome (what would be print out )
  Sometimes code are very complex to follow
+ The time that it would (a lot of time )
 
 Advantages:
   By using excel the code is more easy to follow 
   Make sure it run smoothly 
+  It will lower the chance of having bug (of failing the system )
 
 How do these pros and cons apply to refactoring the original VBA script?
 
